@@ -89,10 +89,11 @@ A "Task Detail" screen built with React Native (Expo) featuring a Pomodoro timer
 ## Technical Decisions & Design Notes
 
 - **Web**:
-  - **Framework**: Next.js was chosen for its zero-config TypeScript support and fast development cycle.
+  - **Framework**: Used Next.js as required by the assessment instructions.
   - **Icons**: Used `lucide-react` for clean, modern UI icons.
   - **Mobile Responsiveness**: The layout uses dynamic viewport units (`100dvh`) to ensure the input bar stays visible above the virtual keyboard on mobile browsers.
 
 - **Mobile**:
+  - **Framework**: Used React Native (Expo) as required by the assessment instructions.
   - **Custom UI**: Instead of a plain text timer, I implemented a custom "Tomato" UI using standard React Native `View` styling to make the Pomodoro experience more engaging.
   - **Safe Areas**: Migrated to `react-native-safe-area-context` to handle notches and home indicators correctly on modern devices.
