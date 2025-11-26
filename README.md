@@ -29,6 +29,12 @@ A simple web page built with React, Next.js, and TypeScript that implements a ta
    - Clean, structured code using Tailwind CSS.
    - Responsive design that handles virtual keyboards on mobile devices.
 
+### Screenshots
+<p align="center">
+  <img src="./task-pc.png" width="80%" alt="Web Desktop View" />
+  <img src="./task-mobile.png" width="18%" alt="Web Mobile View" />
+</p>
+
 ### Setup & Run
 1. Navigate to the `web` directory:
    ```bash
@@ -66,6 +72,12 @@ A "Task Detail" screen built with React Native (Expo) featuring a Pomodoro timer
 5. **UI**: 
    - Clear, readable layout using `StyleSheet`.
    - Uses `react-native-safe-area-context` for proper safe area handling.
+
+### Screenshots
+<p align="center">
+  <img src="./pomodoro-pc.png" width="80%" alt="Pomodoro App Desktop View" />
+  <img src="./pomodoro-mobile.png" width="18%" alt="Pomodoro App Mobile View" />
+</p>
 
 ### Setup & Run
 1. Navigate to the `mobile` directory:
